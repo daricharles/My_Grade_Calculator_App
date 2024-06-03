@@ -30,7 +30,8 @@ public class GradeCalculator {
 
     System.out.println("The letter to your grade score is: " + gradeScore);
 
-    
+    scan.close();
+
   }
 
   // @Test
